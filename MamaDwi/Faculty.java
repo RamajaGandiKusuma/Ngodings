@@ -8,6 +8,6 @@ package MamaDwi;
  *
  * @author RAMAJA
  */
-public class Faculty {
+public class Faculty extends Employee {
     
 }
