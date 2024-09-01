@@ -8,6 +8,6 @@ package MamaDwi;
  *
  * @author RAMAJA
  */
-public class Administrator {
+public class Administrator extends Faculty{
     
 }
